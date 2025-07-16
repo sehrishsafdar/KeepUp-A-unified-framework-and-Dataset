@@ -1,0 +1,202 @@
+claim-id,claim,true_label,top1_evidence,predicted_binary_label,positive_prob,single_pred_label
+c1,"A user on X (formerly Twitter) posted: “Momina Iqbal is a great actress and has played some good roles. But today I found out that she is a transgender, and my respect for her has grown.”",1,g1,1,0.9997570630366681,neutral
+c2,A video shows civilians passengers released by the BLA a few hours after the separatist militant group hijacked the Jaffar Express in March 2025.,1,g11,1,0.9992848923429847,neutral
+c3,"Water tanker runs over man, pregnant wife and newborn in Karachi",0,g3,1,0.9999054098152556,neutral
+c4,"In Punjab, electricity bill will be free for the month of Ramadan"", which has since been shared over 125 times and liked over 1,400 times at the time of writing.",1,g4,1,0.999876760673942,neutral
+c5,"people burning the Pakistani flag, with the caption: ""Lower Kurram's Bagan area update: Today in the Bagan area of Kurram district, the people of Bagan set the flag of Pakistan on fire in broad daylight.""",1,g5,1,0.9995146103901789,neutral
+c6, A video shows two men and their motorcycle being dragged under a dumper truck’s front tyres for a few hundred metres after it hit them and tried to speed away in Karachi.,1,g6,1,0.999583413824439,neutral
+c7,Babar Azam announced his retirement from international cricket,1,g7,1,0.9999647208387614,neutral
+c8,Failed love story: American woman returns home after spending nearly four months in Pakistan,0,g8,1,0.9999240520992316,neutral
+c9," Journalist Waseem Badami recently asserted that the Federal Investigation Agency (FIA) had consolidated all of Maulana Tariq Jameel’s bank accounts, totalling PKR 49 billion.",1,g9,1,0.9999180141603574,neutral
+c10,Scam alert: viral video spreads false information about US visa for Pakistanis,1,page_90,1,0.9999316371977329,neutral
+c11,A video shows civilians passengers released by the BLA a few hours after the separatist militant group hijacked the Jaffar Express in March 2025.,1,g11,1,0.9992848923429847,neutral
+c12,A picture shows the dead bodies of the BLA militants who were killed in an operation by the Pakistan Army after the armed group targeted and hijacked Jaffar Express on 11 March 2025.,1,g12,1,0.9999637924993294,neutral
+c13,Trump has agreed to recognise the government of Afghanistan.,1,g13,1,0.9999535461465712,entailment
+c14,"On his three-day visit to the US in 2019, former premier Imran Khan was not received by any American official, forcing him to travel by metro train inside the US.",1,g14,1,0.9992553740739822,neutral
+c15,A video clip shows four army helicopters heading to Bolan to counter BLA militants who had hijacked Jaffar Express on 11 March 2025,1,g15,1,0.9999167845016927,neutral
+c16,The Chief Justice of Pakistan Yahya Afridi freed Imran Khan from jail,1,g16,1,0.9999631132232025,neutral
+c17,A video shows the Pakistani military’s operation against the Balochistan Liberation Army (BLA) after the hijacking of the Jaffar Express in Balochistan,1,g17,1,0.9997497539879987,neutral
+c18,"During a medical test, it was found that Dr Mahrang Baloch is transgender.",1,g18,0,0.29649823158979416,contradiction
+c19,A video shows the New Zealand government’s anthem featuring the 99 names of God which was performed at the Abdala church.,1,g19,1,0.9934132918715477,entailment
+c20,A video of Salman Akram Raja expressing support for Mahrang Baloch proves the Pakistan Tehreek-e-Insaf is linked to the Balochistan Liberation Army (BLA) and its attack on Jaffar Express.,1,g20,1,0.9993920475826599,neutral
+c21,A video shows Bilawal Bhutto Zardari criticising Shehbaz Sharif and the PML-N while speaking at the National Assembly.,1,g21,1,0.9995640310808085,neutral
+c22,"During a heated speech in the National Assembly, Shazia Marri allegedly said, “Release Imran Khan, or you’ll have to face Trump’s wrath.",1,g22,1,0.9998915785254212,neutral
+c23,"During a recent interview, former Chief Justice Qazi Faez Isa claimed that hidden powers influenced anti-PTI verdicts and his role was limited. ",1,g23,1,0.9996215980136185,neutral
+c24,The State Bank of Pakistan (SBP) will not issue fresh banknotes ahead of Eid-ul-Fitr this year.,1,g24,1,0.9995093700708821,neutral
+c25,A viral video on social media shows an improvised explosive device (IED) attack on Jaffar Express in Balochistan by the Baloch Liberation Army (BLA).,1,g25,0,0.007974682259373367,contradiction
+c26,"Justice Mansoor Ali Shah said “For Pakistan’s better future, former Prime Minister Imran Khan must be brought back.”",1,g26,1,0.9998749509686604,neutral
+c27,"The United Kingdom has banned five Pakistani banks from being used for submitting bank statements in student visa applications. These banks include UBL Bank, MCB Bank, National Bank of Pakistan, Faysal Bank, and Allied Bank.",1,g27,1,0.9997348359320313,neutral
+c28,A video shows Indian spectators chanting “Qaidi [Prisoner] Number 804” during the India vs. Pakistan match at the ICC Champions Trophy 2025 in Dubai,1,g28,1,0.9767025246110279,neutral
+c29,Hamid Mir revealed that Imran Khan recently slapped a colonel in Adiala jail.,1,g29,0,0.03363164825714193,contradiction
+c30,Turkish President Recep Tayyip Erdoğan reminisced about Imran Khan while addressing the National Assembly during his February 2025 trip. He said he “wished” that he “could shake hands with” the former prime minister and hoped to “meet Imran Khan” in the future.,1,g30,1,0.9999558783674729,neutral
+c31,New Zealand cricketer Rachin Ravindra’s phone was stolen from a hospital in Lahore where he was undergoing treatment for an injury,1,g31,1,0.9992118254303932,entailment
+c32,"Dubai will give individuals 50,000 dirhams if they give birth to babies.",1,g32,0,0.0018185125663876534,contradiction
+c33,A video shows Ukrainian President Volodymyr Zelenskyy dancing.,1,g33,1,0.9999577052512905,neutral
+c34,The Pakistan cricket team is the first hosting team in history to get eliminated first in a championship.,1,g34,1,0.99993877808447,neutral
+c35," A collage of photos shows Sudan’s Defence Minister Aqeed Ibrahim, comparing how he appeared during his time in power to his current impoverished state.",1,g35,1,0.9993924138689181,neutral
+c36,Geo News reported that Qayamat has been postponed.,1,g36,1,0.9999668975178793,neutral
+c37,"Chief Minister of Punjab, Maryam Nawaz, stated that Punjab would be the first province in Pakistan to transition its mass transit system to electric vehicles.",1,g37,1,0.9995785637875088,neutral
+c38,A video shows vehicles bumping over a pothole-ridden road in Karachi.,1,g38,1,0.9997966113733128,neutral
+c39,A rally was held in China in support of Imran Khan.  ,1,g39,0,0.4930332446238026,contradiction
+c40,A video shows Trump breaking down and crying over the January 2025 Los Angeles wildfires during a visit to the disaster site in California.,1,g40,1,0.9996602196006279,neutral
+c41, A video shows a man accusing soldiers of the Pakistan Army of assaulting his daughter.  ,1,g41,1,0.9867421454400755,neutral
+c42,A video circulating online claims that Prime Minister Shehbaz Sharif accused Chief of Army Staff General Asim Munir of destroying the country and doing so in Sharif’s name.,1,g42,1,0.9989774422137998,neutral
+c43,"A viral post on social media claimed that the Bangladesh military has been abolished and replaced with a new ‘Border Security Force’, which exclusively handles border security. ",1,g43,1,0.9997849533101544,neutral
+c44,US President Donald Trump called Imran Khan a convict who was involved in fraudulent cases. Trump further said that the Pakistani diaspora in the US urged him to advocate for the release of the jailed former Prime Minister of Pakistan.,1,g44,1,0.9999449392707902,neutral
+c45,A video shows Pakistani forces attacking a post by the Afghan Taliban near the Pakistan-Afghanistan border and also shooting down their quadcopter.,1,g45,1,0.9775947034358978,neutral
+c46,Video shows the Pakistan Army opening fire at the Afghan Taliban.,1,g46,1,0.9993439877871424,neutral
+c47,The image shows a Delta passenger jet lying upside down after it made a rough landing and crashed at Toronto Pearson Airport in Canada on 17 February.,1,g47,1,0.9997049565427005,entailment
+c48,"Spectators at the Rawalpindi Cricket Stadium chanted against the Federal Minister for Information and Broadcasting Attaullah Tarar, calling him a thief [“chor chor”], when the camera focused on him.",1,g48,1,0.9998844733854639,neutral
+c49,"Geo News reported that England needed 50,000 urgent workers and 10 companies are offering free visas.",1,g49,1,0.8523134738206863,entailment
+c50, A video shows the crowd at the National Stadium in Karachi chanting “Qaidi Number 804” when batsman Babar Azam appeared to speak.,1,g50,1,0.9997751908376813,neutral
+c51,An image shows former Pakistani military chief Gen (r) Qamar Javed Bajwa in a swimming pool posing alongside a woman wearing a swimsuit.,1,g51,1,0.9999096165993251,neutral
+c52,A video shows an elderly woman being dragged and attacked by stray dogs on a street in Karachi. ,1,g52,1,0.9999079714107211,neutral
+c53,"An video clip circulating on social media supposedly features US President Donald Trump making statements about Imran Khan and Pakistan’s incumbent government in an interview. He can be heard criticising former US President Joe Biden, Prime Minister of Pakistan Shehbaz Sharif and the Pakistani Army.",1,g53,1,0.9999610688973917,entailment
+c54,"PTI’s Junaid Akbar recently met Manzoor Pashteen, founder and head of the Pashtun Tahafuz Movement (PTM) ahead of PTI’s rally on 8 February in Swabi.",1,g54,1,0.999730493495008,neutral
+c55,"On March 22, an Instagram user shared a 24-second video allegedly showing Donald Trump stating: “I know that Christians in Pakistan are living very difficult lives. False blasphemy accusations are made against them. Christian girls are forcibly converted to Islam and are called derogatory names like easi and chura. If the Pakistani government does not put an end to these injustices, I will bring all Pakistani Christians to America.",1,g55,1,0.9996266080415808,neutral
+c56,New Zealand beat Pakistan by 43 runs to sweep ODI series 3-0,0,g56,1,0.9998342467006296,neutral
+c57,"A video shows Bushra Bibi, wife of the former Prime Minister Imran Khan, addressing a crowd unveiled.",1,g57,1,0.9998718788119731,neutral
+c58,Ali Amin Gandapur accused Bushra Bibi of corruption and collecting extortion money in Peshawar.,1,g58,1,0.9961205692961812,neutral
+c59, A doctor displayed anger and frustration at the government after witnessing casualties from the recent PTI protest at D-Chowk.,1,g59,1,0.9999271026190399,neutral
+c60,A video shows Nawaz Sharif belittling Khawaja Asif during a press conference.,1,g60,1,0.9993032664060593,neutral
+c61,"A picture shows a sea of containers that were put in place ahead of the PTI’s November march, blocking a road in Islamabad.",1,g61,1,0.9997722573389183,neutral
+c62,"An image of a wounded girl has surfaced on social media, who was injured during the recent violence in Parachinar.",1,g62,1,0.9999633808838553,neutral
+c63,"A collage of photos shows Sudan’s Defence Minister Aqeed Ibrahim, comparing how he appeared during his time in power to his current impoverished state.",1,g35,1,0.9993924138689181,neutral
+c64,"Geo News reported that a new mobile application called ‘mizmaxs’ allows you to earn PKR 1,200 as soon as you download it and you can keep earning more from that point.  The report also claims that you can earn money every 4 minutes if you have a phone with a touchscreen.",1,g64,1,0.9944280236959457,entailment
+c65,French medical reports show that Algerian boxer Imane Khelif was born as a man with XY chromosomes.,1,g65,0,0.009759319946169853,contradiction
+c66,"Shahbaz Gill defended Richard Grenell and spoke against criticisms of Grenell based on his sexual orientation, saying it is a sign of ignorance to criticise him for his sexuality.",1,g66,1,0.9999517904798267,neutral
+c67,There are now over 100 Sharia courts in the UK.,1,g67,0,0.0023960695834830403,contradiction
+c68, Migratory birds returned to the “highlands of Afghanistan” after the withdrawal of US-led international troops in 2021. A video showing numerous birds near the mountains serves as evidence.,1,g68,1,0.9999412938486785,neutral
+c69,"50% of Muslims and 70% of Pakistanis in the UK are inbred, and the majority of disabled children in the UK are born to Muslim parents",1,g69,1,0.9999524483209825,neutral
+c70,Pictures show Jennifer Lopez wearing a sacred sword during a performance at Riyadh Season 2024.,1,g70,1,0.9998957139177946,neutral
+c71,A video from Pakistan shows a woman from a religious minority being forcefully converted to Islam,1,g71,1,0.9996026938642899,neutral
+c72,"A video shows Palestinian women wearing a burqa, a loose-fitting garment covering the whole body, participating in a beauty pageant.",1,g72,1,0.9999724526860518,neutral
+c73,Authorities have recovered slaughtered dogs and food made with dog meat from restaurants in Karachi.,1,g73,1,0.9999285893209162,neutral
+c74,"Heather Swanson, a transgender cartoon character from the South Park animated series, is comparable to real-life Algerian boxer Imane Khelif.",1,g74,1,0.9995893367376993,neutral
+c75, Imran Khan said “no one understood but the Israeli newspaper has praised me and said I am the only leader in Pakistan with credibility.”,1,g75,1,0.9998898436278978,neutral
+c76," Pakistan army’s emblem is engraved into a door of Pataudi House in Haryana, India",1,g76,1,0.9975583130726591,neutral
+c77,A widely circulated image shows Natasha Danish recording herself while driving recklessly. Natasha was involved in a deadly traffic accident in Karachi in August.,1,g77,1,0.9998874425582471,neutral
+c78,Arab citizens and singers released a song celebrating Israel’s recent pager attacks in Lebanon.,1,g78,0,0.07050943188369274,contradiction
+c79,"The SBP has shortlisted designs for the new banknotes, of which some will be selected as the official currency note after the Government of Pakistan’s approval.",1,g79,1,0.9999413661644212,neutral
+c80,India’s Zindagi channel apologised to its viewers for the TV series “Barzakh” and took down all of the show’s episodes from YouTube.,1,g80,1,0.9999208700319286,neutral
+c81,Video shows injured Hamas leader Ismail Haniyeh’s last moments before his death. ,1,g81,1,0.9999322415897041,entailment
+c82,Kababjees University of Science and Technology does not exist,1,page_347,1,0.9991889304947108,neutral
+c83,"Elon Musk alleged that Google has banned searches for Republican presidential candidate Donald Trump, preventing users from finding relevant results when searching for Trump’s name.",1,g83,1,0.9998937614582246,neutral
+c84,A stone tablet depicting a man in front of a computer proves technology existed in “ancient times”,1,g84,1,0.9999241554760374,neutral
+c85,"New technology allows hackers to extract fingerprints from photographs posted online where a person’s fingertips are visible, when making a peace sign, for example. These biometric details can then be used to hack into someone’s phone or commit a range of cybercrimes, including bypassing authentication processes and hacking into banking accounts. A good way to mitigate this risk is by blurring the fingertips in the photographs that you post on social media. ",1,g85,1,0.9999672913072573,neutral
+c86,Elon Musk has acquired Stanford University.,1,g86,1,0.9999679390602978,neutral
+c87,All Confucius Institutes in Pakistan have been shut down. Confucius Institutes are Chinese language and culture centers set up through partnerships between universities in Pakistan and the Chinese International Education Foundation.,1,g87,1,0.9990434000210371,neutral
+c88,"A misleading tweet claimed that “75% Pakistanis have never read a book outside their syllabus,” citing Gallup Pakistan, a survey research and consultancy firm affiliated with Gallup International, as an official source",1,g88,1,0.9994354545196984,neutral
+c89, Open AI’s new model O3 will change everything since artificial general intelligence (AGI) is finally here.,1,g89,1,0.9982539191842079,neutral
+c90,"A violent video of a man being beaten up in a river, with his hands and feet tied together, is from the recent attacks on the Shia community in Parachinar.",1,g90,1,0.8464302539359778,neutral
+c91,"A viral video shows a man  walking into an elevator with an e-bike battery, which almost instantly bursts into flames, causing an explosion inside the lift. In the latter half of the video, the same man can be seen being dragged out of the elevator, unconscious and almost completely covered with burn marks. ",1,g91,1,0.9999427357506647,neutral
+c92,A video claims to show an eight-foot-long centipede,1,g92,1,0.9988159454078414,neutral
+c93,"Viral posts on social media claimed that Dr Gilbert A Kwak, a professor at ICBS General Hospital, stated that hot fig water can cure cancer and that hot figs can “destroy” cancer cells.",1,g93,1,0.9999660346038581,neutral
+c94, A viral Snapchat mashup shows several video clips of the recent rainstorm in the UAE.,1,g94,1,0.9995031673461199,neutral
+c95,Director General of WHO Dr Tedros Adhanom has said that Disease X is a global problem and that we should be prepared for it.,1,g95,1,0.9999462108717125,neutral
+c96,"India’s Narendra Modi and Joe Biden are seen taking a stroll together and sharing a meal. Both are wearing traditional dresses, an orange turban, and garlands of marigolds in some pictures",1,g96,1,0.9994336293602828,neutral
+c97,A video shows a bird breathing fire from its mouth.,1,g97,1,0.9999057949025882,neutral
+c98,A video shows Donald Trump seeking forgiveness from Allah following the devastating fires in Los Angeles.,1,g98,1,0.9983206995530054,entailment
+c99,"A bird that can breathe fire or shoot fire from its eyes caused the Los Angeles wildfires, according to a video",1,g99,1,0.9998373447087943,neutral
+c100,A video shows a large group of people sleeping in an open ground after losing their homes in the Los Angeles wildfires,1,g100,1,0.9987245931406505,neutral
+c101,A series of images shows the wildfire in Los Angeles.,1,g101,1,0.9988665599375963,neutral
+c102,A video shows Jerusalem’s al-Aqsa mosque during Friday prayer.,1,g102,1,0.999906189928879,neutral
+c103,"West Indies cricketer Chris Gayle was seen enjoying the snow in Kumrat valley, Khyber Pakhtunkhwa.",1,g103,0,0.003069512458750978,contradiction
+c104,"YouTuber Luke Damant, who was missing for days, has been found dead in Jalalabad, Afghanistan, three weeks after entering the country via Pakistan.",1,g104,1,0.9998814713690081,neutral
+c105,A video shows Richard Grenell praising Imran Khan during a speech at the Republican National Convention.,1,g105,1,0.9999364878058259,neutral
+c106,A video shows a firefighting plane crashing shortly after takeoff while attempting to douse a fire in Los Angeles in January 2025,1,g106,1,0.999923404524452,neutral
+c107,Donald Trump plans to invite Imran Khan along with his family to his inauguration ceremony on 20 January.,1,g107,1,0.9990554395481013,neutral
+c108,"Donald Trump said, “I’ve learnt a lot from Imran Khan, his Islamic style, and his independent policy. He is not only the leader of Pakistanis but he is also my leader.”",1,g108,1,0.9923159624449909,neutral
+c109,Netanyahu is seen being “attacked and beaten up” by members of the Israeli parliament in a video,1,g109,1,0.9991652112221345,neutral
+c110,"Images depict Imran Khan and Richard Grenell in intimate moments, including some showing them getting married.",1,g110,1,0.999921077516774,neutral
+c111,An image of a large gathering at a funeral apparently shows Khalil Ur Rahman Haqqani’s funeral.,1,g111,0,0.0030647534294985235,contradiction
+c112,"Alexandria Ocasio-Cortez defines the term ceasefire as an incident when someone “sees a fire”, which “could be a big fire or a small fire, a bonfire or even a candle flame”.",1,g112,0,0.0001562895195093006,contradiction
+c113,"The Kaaba, a place of huge importance to Muslims around the world, was purposely disrespected during the recent Riyadh Fashion Week. A Kaaba-like model was built on the ramp, and models were made to walk around it, thus mocking the religious monument. ",1,g113,1,0.9995083112517023,neutral
+c114,Yemen’s Houthis announced a ceasefire with Israel following Donald Trump’s victory in the 2024 US Presidential Election.,1,g114,1,0.9992511168529745,neutral
+c115,FIR confirmed. Police officer caught selling drugs in Multan,0,g115,1,0.997480864985846,neutral
+c116,President Asif Ali Zardari hospitalised in Karachi,0,g116,1,0.9976659908497822,neutral
+c117,"The Balochistan government has banned night-time travel — mostly for public transport — on major highways in several districts amid a deteriorating security situation, it emerged on Sunday.",0,g117,1,0.9999349776026065,neutral
+c118,PIA aircraft’s missing wheel found at Karachi airport,0,g118,1,0.9999492197130166,neutral
+c119,"The government has announced a three-day holiday for Eidul Fitr from March 31 to April 2, according to a notification issued on Wednesday.",0,g119,0,5.184706060390454e-05,contradiction
+c120,"Chief Minister Punjab Maryam Nawaz has ordered for comprehensive development and beautification of the entire Rawalpindi Division, with a special focus on cleanliness, park improvements and removal of encroachments.",0,g120,1,0.99991592495644,neutral
+c121,5 dead as freak hailstorm upends life in country’s north,0,g121,1,0.9999373880491476,neutral
+c122,Fast-food chain worker killed in Punjab’s Sheikhupura,0,g122,1,0.9998296381236287,neutral
+c123,"5.5 magnitude earthquake jolts Islamabad, Lahore and other parts of Pakistan",0,g123,0,0.1537361592054367,contradiction
+c124,"Federal Urdu University awarded Arshad Nadeem with Rs2,000. ",1,g124,1,0.9943800643086433,neutral
+c125,Arshad Nadeem hugged Maryam Nawaz when she visited the athlete’s residence to congratulate him on his victory in the 2024 Olympics.,1,g125,1,0.9998067471460672,neutral
+c126,"ارشد ندیم نے فائنل کے دوران غیر معمولی کارکردگی کا مظاہرہ پیش کرتے ہوئے 92.97 میٹر تھرو کے ساتھ مردوں کے جیولین تھرو کا سابقہ ریکارڈ توڑ کر اولمپک کی تاریخ میں اپنا نام لکھوادیا۔
+
+انہوں نے 16 سال قبل بنایا گیا ناروے کے ایندریاس تھورڈکلسین کا بیجنگ اولمپکس 2008 میں 90.57 میٹر کی تھرو کا اولمپک ریکارڈ توڑا۔",0,g131,0,0.33845533058047295,contradiction
+c127,"In an interview following her son’s gold medal win at the Olympics 2024, Arshad Nadeem’s mother described Neeraj Chopra as like a son to her, expressing that he is both a friend and a brother to Arshad.",0,g127,1,0.99992398372342,neutral
+c128,"Fierce rivals, good friends and podium finish: The Neeraj-Arshad show has a ‘big message’ for India, Pakistan youth",0,g128,1,0.9997864933066012,neutral
+c129,ISLAMABAD: President Asif Ali Zardari conferred the Hilal-i-Imtiaz upon Olympic javelin throw champion Arshad Nadeem on Thursday in recognition of his gold medal-winning performance in recent Paris Olympics.,0,g129,1,0.9969787744630594,entailment
+c130,تحصیل ہیڈکوارٹر  (ٹی ایچ کیو) اسپتال میاں چنوں کو  پیرس اولمپکس میں پاکستان کو گولڈ میڈل جتوانے والے ایتھلیٹ ارشد ندیم کے نام سے منسوب کردیا گیا۔,0,g130,0,0.19438942708075047,contradiction
+c131,ابرارالحق نےگولڈ میڈلسٹ ارشد ندیم کو 15 لاکھ روپے نقد انعام دیا,0,g131,0,0.14498802088201046,contradiction
+c132,وزیر اعلیٰ کے پی کا ارشد ندیم کو اپنی جیب سے 50 لاکھ روپے بطور انعام دینے کا اعلان,0,g132,0,0.4576531667262316,contradiction
+c133,Olympian Arshad Nadeem receives car gift from private motor company,0,g133,1,0.9927179254591465,entailment
+c134,"""I prayed for my husband's success for three days without sleep"", says Arshad Nadeem's wife",0,g134,1,0.9963159679900855,neutral
+c135,Javelin superstar Arshad Nadeem arrived in his hometown Mian Channu to a hero’s welcome on Sunday afternoon as crowds gathered to meet the Olympic champion.,0,g135,1,0.9999091107019922,neutral
+c136,Arshad Nadeem Motivational speech for youngster at WAPDA house Lahore,1,g136,1,0.9999415274251078,neutral
+c137,قومی ہیرو ارشد ندیم کے طیارے کو وطن واپسی پر خصوصی واٹر کینن سلیوٹ پیش,0,g137,1,0.5323950536549091,neutral
+c138,Several citizens and activists stood in solidarity as they mourned Sharif's death.,1,g138,1,0.9999386065464932,neutral
+c139,The funeral prayers of senior journalist Arshad Sharif were offered at Shah Faisal Mosque in Islamabad on Thursday.,1,g139,1,0.9990797963982914,neutral
+c140,This is the video of #arshadshareef a few days before he left Pakistan. ,1,page_2172,1,0.9979716173838824,neutral
+c141,"A plane carrying body of slain journalist Arshad Sharif, who was killed by Kenyan police, landed in Islamabad early Wednesday.
+
+Journalists and Pakistan Tehreek-e-Insaf (PTI) leaders reached the airport to receive the body of renowned journalist.",1,g141,1,0.9999390660814242,neutral
+c142,Pakistani journalist Arshad Sharif killed in police shooting in Kenya,1,g140,1,0.9570159167051315,neutral
+c143,We've also obtained both postmortem reports from autopsies in Kenya & Pakistan,0,g143,1,0.9993244467768818,neutral
+c144,"The shooting dead of a prominent Pakistani investigative journalist by police in Kenya caused outrage in his home country, leaving many wondering how such a thing could have happened.",1,g144,1,0.9999562400080322,neutral
+c145,"Body of slain renowned Investigative journalist ArshadSharif has been found at Kenya's Chiromo Mortuary, 78 Kilometres from where Police say shooting happened. Body appears to have two gunshot wounds",0,g141,1,0.9999460847684531,neutral
+c146,Arshad shareef four nails and one kidney we’re already taken out in Kenya,1,g146,1,0.9988954085856676,entailment
+c147,A photo shows slain journalist Arshad Sharif’s family gathered around his coffin to mourn his loss. ,0,g147,1,0.9996933442598674,neutral
+c148,A video shows journalist Arshad Sharif’s mother. He was recently killed in Kenya.,0,g148,1,0.9999300100025721,neutral
+c149," Viral images and videos of a girl crying over a body in a coffin apparently show the daughter of journalist Arshad Sharif, who was recently killed in Kenya",0,g149,1,0.9998845337831881,neutral
+c150,China’s ultra high-speed maglev train is “coming soon” to Pakistan and will reduce the travelling time between Islamabad and Karachi to 1.5 hours.,0,g150,1,0.9997704441193491,entailment
+c151,"On September 26, a social media user claimed that a few days after Chief Justice Qazi Faez Isa was “verbally abused” by a worker at Crusteez Donuts in Islamabad, the bakery had been sealed. The post has been viewed over 23,000 times and liked over 300 times to date.",0,g151,1,0.9994519709143788,neutral
+c152,"the Chief Justice of Pakistan purchasing pastries with his wife and daughter. The employee is seen asking the CJP, “Are you Faez Isa?” When he confirms his identity, the staff responds with a derogatory remark, saying, “Lanat ho aap pe (Damn you).”",1,g152,1,0.999965359824273,neutral
+c153,قاضی صاحب کے ساتھ ہونے والی بدتمیزی کی بھرپور مذمت کی ہے اور اپنے بیکری ملازمین کی ٹریننگ کا بھرپور بندوبست کریں گے تاکہ آئندہ ایسے واقعات نا ہوں,1,g126,1,0.5295751020312309,neutral
+c154,"Newly opened Dream Bazaar Mall built by a foreign businessman in #Pakistan's Karachi Gulistan-e-Johar looted & vandalised by locals during its grand opening. Mall offered special discounts for locals, which led to massive crowds storming into the venue. Police accused of acting like bystanders",1,g155,1,0.999958512133162,neutral
+c155,"Pakistani people looted newly opened Mall within 30 minutes of its opening  !!!
+Mall closed within a hour of opening !!!",1,g154,1,0.999896620051004,neutral
+c156,Dream Bazaar' turns into a nightmare: Mob loots Karachi mall in minutes,1,g156,1,0.9999547734914813,neutral
+c157,"Message by team Dream Bazar ❤️
+Dream Bazar will officially only Open for Family only",0,page_3897,1,0.9999652127880836,neutral
+c158,"Pakistan's first Human Milk Bank, launched by the Sindh Institute of Child Health & Neonatology (SICHN), has been suspended after a new fatwa. 
+The project aimed to provide breast milk to premature babies below 34 weeks and 2kg, who can't get adequate nutrition from their mothers. 
+SICHN will seek guidance from Darul Uloom Karachi and the Council of Islamic Ideology. 
+Initially endorsed with conditions in December 2023, a revised fatwa on June 16 led to the project's suspension. 
+The milk bank intended to offer free, Shariah-compliant breast milk exclusively from Muslim donors.",1,g158,1,0.9999737457983429,neutral
+c159,Extremely unfortunate that a human milk bank project in sindh was stopped on some fatwa.,1,g158,1,0.9998429932165891,neutral
+c160,Pakistan’s first human milk bank in Karachi suspended operations after religious scholars deemed it haram. ,1,g160,1,0.999733856835519,neutral
+c161,First Sharia-Compliant Human Milk Bank launched,1,g161,1,0.9999679610227759,neutral
+c162, Imran Khan has been appointed as the chancellor of the University of Oxford.,0,page_280,1,0.9999304649827536,neutral
+c163,Former Pakistani PM Imran Khan will run for chancellor of Oxford University from his prison cell in Pakistan.,1,g163,1,0.9983699991134927,entailment
+c164,"Natasha Danish Iqbal, who is responsible for the accident on Karsaz Road, is on the board of directors of Metro Power Group",0,g164,1,0.9999040491238702,neutral
+c165,Karsaz accident suspect gets bail after victims’ heirs ‘pardon’ her.Lawyers said suspect Natasha would not be released as she was facing a separate drug case.,1,g165,1,0.9999320336428354,neutral
+c166,Judge rejects bail plea of Karsaz accident suspect in drug case,1,g166,1,0.9997096732258797,neutral
+c167,"Victim’s family forgives suspect Natasha Danish in Karsaz road accident case.  “We have reached an agreement and have pardoned the suspect. We forgive in the name of Allah, the most merciful and compassionate.” ",1,g167,1,0.9991106830420904,neutral
+c168,Medical report found Karsaz accident driver was ‘under influence of crystal meth’: Sindh IG,1,g168,1,0.9992123120464385,neutral
+c169,Karsaz accident driver Natasha Danish Ali held up the victory sign outside court. Images of her holding up the sign insinuate that she has been acquitted of the case.,0,g169,1,0.9999493041541427,neutral
+c170,Netizens praise young boy standing up for Karsaz road accident victims against influential family,1,g170,1,0.9997506472354871,neutral
+c171,Natasha Danish’s Jail photos from Karsaz incident go viral,1,g171,1,0.9999651419639122,neutral
+c172,Karsaz accident case: Natasha gets special permission to appear in court via video link,1,g172,1,0.999173665928538,neutral
+c173,"A girl Minahil died in Mian Nawaz Sharif agriculture university Multan in a university bus accident. This is the body of the dead girl placed on road like this for hours in this heat and not returning the body to parents to get them sign the papers so they cannot file case against university. Please raise voice for Minahil 
+
+They University bus not only killed the girl but thats how they desecrated her deadbody. ",1,g176,1,0.9999588016726193,neutral
+c174,نواز شریف زرعی یونیورسٹی میں 22 سالہ منائل کا یونیورسٹی بس کی ٹکر سے انتقال کا معاملہ،، پولیس نے بس ڈرائیور عامر کو گرفتار کر لیا,1,g137,0,0.47556476667523384,contradiction
+c175,کل صبح MNAU میں ہونے والے ایکسیڈنٹ میں جو لڑکی شہید ہوئی وہ اپنے والدین کی اکلوتی اولاد تھی۔,1,g130,0,0.15992977656424046,contradiction
+c176,۔ کل صبح آٹھ بجے نواز شریف یونیورسٹی ملتان میں مناہل نام کی لڑکی(جوکہ بائیک پر یونیورسٹی آتی تھی) کا یونیورسٹی بس سے ایکسیڈنٹ ہوا جس میں ساری غلطی بس ڈرائیور کی تھی۔ مناہل موقع پر ہی اللہ کو پیاری ہو گئی۔,0,g131,0,0.12504606507718563,contradiction
+c177,گزشتہ روز نواز شریف ایگریکلچر یونیورسٹی ملتان میں ایک طالبہ کو یونیورسٹی بس سے کچل دیے جانے والے  افسوسناک حادثے میں یونیورسٹی انتظامیہ کے خلاف احتجاج کیا گیا۔ الحمدللہ !ضلعی انتظامیہ اور یونیورسٹی انتظامیہ سے اپنے مطالبات منوائے۔,1,page_497,0,0.03415964310988784,contradiction
+c178,"On August 25, a social media user on X (formerly Twitter) posted: “Breaking news. The programme to provide free milk to children in schools has been suspended till next year.”",0,g178,1,0.9999192504037637,neutral
+c179,CM Maryam launches school nutrition programme from DG Khan,1,g179,1,0.9971617762930691,neutral
+c180,"‘Eat, drink and study’: Punjab CM launches school nutrition program",1,g180,1,0.9999544823149336,neutral
+c181,چیف منسٹر پنجاب نیوٹریشن پروگرام کا جنوبی پنجاب سے آغاز: 5 ستمبر سے روزانہ تین اضلاع میں چار لاکھ طلبہ کو 3،527 پبلک سکولوں میں مفت دودھ فراہم کیا جائے گا۔,1,page_510,0,0.0033490012865513563,contradiction
+c182,Chief Minister Maryam Nawaz of Punjab has mandated the distribution of boxed milk to Schools Students Up to 5 Grade. ,1,g182,1,0.9995684988462017,neutral
+c183,"Chief Minister Maryam Nawaz inaugurated Punjab's first and largest school nutrition program at Dera Ghazi Khan Primary School.
+Personally distributed milk packs to students, opened them herself, and ensured they finished under her supervision.",1,g180,1,0.9996799731161445,neutral
+c184,بچوں نے سکولوں میں مریم نواز کا دیا ہوا دودھ پینے سے انکار کر دیا ۔۔۔,0,g126,1,0.5233616530895233,neutral
+c185,مریم نواز کے دودھ کا ٹھیکہ فوجی فاونڈیشن کو مل گیا ہے،,0,g130,0,0.12752938456833363,contradiction
+c186,The Pakistan Students Federation has demanded Imran Khan’s release by 30 August and warned of protests if their demand is not met.,0,g186,1,0.9998834739781159,neutral
+c187,"After a 7-month hiatus, X is now accessible in Pakistan after the Pakistan Telecommunication Authority (PTA) formally lifted the ban on the social media platform. It may be unclear whether this restoration is permanent but users can connect and post again.",0,g187,1,0.9997944250935689,neutral
+c188,Pakistan says it blocked social media platform X over ‘national security’,1,g188,1,0.9999350223079091,neutral
